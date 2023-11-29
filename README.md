@@ -1,7 +1,7 @@
 # Template1-HTML-CSS
 Leon Template A responsive HTML5 website template built with CSS and JavaScript.
 
-##Overview
+## Overview
 This is a reusable template for building fast, modern websites. Key features include:
 
 Fully responsive and mobile-friendly design
