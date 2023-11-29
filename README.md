@@ -10,4 +10,6 @@ Easily customizable with CSS variables
 Reusable components and layout built with Flexbox
 Vanilla JavaScript for interactivity and functionality
 Speed optimized for performance
+
+
 ![image](https://github.com/babdellghani/Template1-HTML-CSS/assets/143917624/c884d6da-2616-40ef-ada6-58f7956bf0a2)
