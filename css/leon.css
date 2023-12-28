@@ -317,6 +317,7 @@ html {
 
 .portfolio .portfolio-content .card {
     background-color: #ffffff;
+    cursor: pointer;
 }
 
 .portfolio .portfolio-content .card img{
