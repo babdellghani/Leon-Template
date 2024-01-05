@@ -15,8 +15,8 @@ icon.addEventListener("click", function (e) {
 });
 
 document.addEventListener("click", function (e) {
-    if (!e.target.closest('.links')) {
-        span.style.width = "60%";
-        links.style.display = "none";
-    }
-})
+  if (!e.target.closest(".links")) {
+    span.style.width = "60%";
+    links.style.display = "none";
+  }
+});
