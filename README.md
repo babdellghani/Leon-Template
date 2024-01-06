@@ -10,7 +10,7 @@ This is a reusable template for building fast, modern websites. Key features inc
 Fully responsive and mobile-friendly design \
 Built with HTML5 and CSS3 and JS \
 Easily customizable with CSS variables \
-Reusable components and layout built with Flexbox \
+Reusable components and layout built with Flexbox And Grid \
 Speed optimized for performance
 
 ![image](https://github.com/babdellghani/Template1-HTML-CSS/assets/143917624/c884d6da-2616-40ef-ada6-58f7956bf0a2)
