@@ -315,7 +315,7 @@ html {
 }
 
 .portfolio .portfolio-content .card {
-  animation: card .5s linear;
+  animation: card .5s linear both;
   animation-timeline: view(block 80% 0%);
 }
 
